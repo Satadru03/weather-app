@@ -9,6 +9,8 @@ A temperature displaying program that retrieves weather data using APIs and disp
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+- [Future Improvements](#futureimprovements)
+- [Roadmap](#roadmap)
 
 ## Installation
 
@@ -46,6 +48,24 @@ Contributions are welcome! Here's how you can get involved:
 - Make your changes and submit a pull request.
 - Follow existing code style and add appropriate comments.
 - Report issues or suggest enhancements by creating GitHub issues.
+
+## Future Improvements
+
+Here are some ideas and features that I plan to implement in the future:
+
+- **Feature 1:** Add more feature like Forecasting.
+- **Feature 2:** Hosting the project on a website using django.
+
+## Roadmap
+
+Here's the general roadmap for the project's development:
+
+- **Version 1.1:** Implement additional data visualization features.
+- **Version 1.2:** Integrate a user authentication system for personalized experiences.
+- **Version 1.3:** Enhance performance and optimize resource usage.
+- **Version 2.0:** Revamp the user interface for a more modern look.
+
+Please note that this roadmap is subject to change based on user feedback and contributions.
 
 ## License
 
