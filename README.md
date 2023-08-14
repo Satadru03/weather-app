@@ -8,9 +8,9 @@ A temperature displaying program that retrieves weather data using APIs and disp
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 - [Future Improvements](#future-improvements)
 - [Roadmap](#roadmap)
+- [License](#license)
 
 ## Installation
 
